@@ -1,0 +1,6 @@
+{
+  "name": "chiragjn.github.io",
+  "tagline": "Chirag Jain's open source web pages",
+  "body": "## [Blog](http://chiragjn.github.io/blog/)\r\nRead my articles , although I don't write much\r\n___\r\n\r\n## [Network Graph Tool](http://chiragjn.github.io/graphtool/)\r\nCreate and save awesome directed/undirected, weighted/unweighted graphs with this tool I hacked over the weekend.\r\nMade with d3js.\r\n___\r\n\r\n## [About Me](http://chiragjn.github.io/blog/pages/about.html)\r\nAs the name says, about me and links to my internet profiles\r\n___\r\n\r\n## [Codeforces Profile](http://codeforces.com/profile/chiragjn)\r\nI like competitive programming and problem solving\r\n___",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
